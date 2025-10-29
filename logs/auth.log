@@ -1,0 +1,256 @@
+2025-10-27 16:19:22 [INFO] [auth] Logging route request received
+2025-10-27 16:19:23 [INFO] [auth] Login process completed
+2025-10-27 16:20:36 [INFO] [auth] User registration has started
+2025-10-27 16:20:36 [INFO] [auth] User has been created
+2025-10-27 16:21:20 [INFO] [auth] Logout route accessed
+2025-10-27 16:21:20 [INFO] [auth] Logout completed
+2025-10-27 16:24:04 [INFO] [auth] Logging route request received
+2025-10-27 16:24:04 [INFO] [auth] Login process completed
+2025-10-27 16:29:49 [INFO] [auth] Logging route request received
+2025-10-27 16:29:49 [INFO] [auth] Login process completed
+2025-10-27 16:30:04 [WARNING] [security] Unauthorized admin access attempt
+2025-10-27 16:31:02 [INFO] [auth] Getting the info of all the users
+2025-10-27 16:39:30 [INFO] [auth] Logging route request received
+2025-10-27 16:39:31 [INFO] [auth] Login process completed
+2025-10-27 16:40:33 [WARNING] [security] Unauthorized admin access attempt
+2025-10-27 16:42:11 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x73142abdf9d0>
+2025-10-27 16:54:15 [INFO] [auth] Logging route request received
+2025-10-27 16:54:16 [INFO] [auth] Login process completed
+2025-10-27 16:55:35 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x703a1fe32ad0>
+2025-10-27 17:06:06 [INFO] [auth] Logging route request received
+2025-10-27 17:06:06 [INFO] [auth] Login process completed
+2025-10-27 17:06:33 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x798b9b82f250>
+2025-10-27 17:07:11 [INFO] [auth] Logout route accessed
+2025-10-27 17:07:11 [INFO] [auth] Logout completed
+2025-10-27 17:25:44 [INFO] [auth] Logging route request received
+2025-10-27 17:25:45 [INFO] [auth] Login process completed
+2025-10-27 18:36:11 [INFO] [auth] Logging route request received
+2025-10-27 18:36:11 [INFO] [auth] Login process completed
+2025-10-27 18:36:44 [INFO] [auth] Getting the info of all the users
+2025-10-27 18:39:09 [INFO] [auth] Logging route request received
+2025-10-27 18:39:10 [INFO] [auth] Login process completed
+2025-10-27 18:41:55 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 18:41:55 [INFO] [auth] Delete user route accessed
+2025-10-27 18:43:07 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 18:43:07 [INFO] [auth] Delete user route accessed
+2025-10-27 18:50:45 [INFO] [auth] Logging route request received
+2025-10-27 18:50:45 [INFO] [auth] Login process completed
+2025-10-27 18:51:22 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 18:51:22 [INFO] [auth] Delete user route accessed
+2025-10-27 18:51:38 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 18:51:38 [INFO] [auth] Delete user route accessed
+2025-10-27 18:55:00 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 18:55:00 [INFO] [auth] Delete user route accessed
+2025-10-27 19:00:23 [INFO] [auth] Getting the info of all the users
+2025-10-27 19:01:03 [WARNING] [security] Unauthorized access attempt (no token)
+2025-10-27 19:01:24 [INFO] [auth] Logging route request received
+2025-10-27 19:01:25 [INFO] [auth] Login process completed
+2025-10-27 19:01:39 [WARNING] [security] Unauthorized access attempt (no token)
+2025-10-27 19:04:33 [WARNING] [security] Unauthorized access attempt (no token)
+2025-10-27 19:04:48 [WARNING] [security] Unauthorized access attempt (no token)
+2025-10-27 19:09:04 [WARNING] [security] Unauthorized access attempt (no token)
+2025-10-27 19:11:59 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 19:11:59 [INFO] [auth] Delete user route accessed
+2025-10-27 19:14:03 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 19:14:03 [INFO] [auth] Delete user route accessed
+2025-10-27 19:15:43 [INFO] [auth] Getting the info of all the users
+2025-10-27 19:16:42 [INFO] [auth] Logging route request received
+2025-10-27 19:16:42 [INFO] [auth] Login process completed
+2025-10-27 19:17:05 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 19:17:05 [INFO] [auth] Delete user route accessed
+2025-10-27 19:19:27 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 19:19:27 [INFO] [auth] Delete user route accessed
+2025-10-27 19:23:20 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-27 19:23:20 [INFO] [auth] Delete user route accessed
+2025-10-27 19:35:36 [INFO] [auth] Logging route request received
+2025-10-27 19:35:36 [INFO] [auth] Login process completed
+2025-10-27 19:36:06 [INFO] [auth] Delete user route accessed
+2025-10-27 19:36:40 [INFO] [auth] Delete user route accessed
+2025-10-28 11:55:53 [INFO] [auth] Logging route request received
+2025-10-28 11:55:53 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Devank', 'email': 'user@example.com', 'timestamp': '2025-10-28T06:25:53.806529'}
+2025-10-28 11:56:28 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x76a55486c690>
+2025-10-28 12:07:07 [INFO] [auth] Logging route request received
+2025-10-28 12:07:08 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Devank', 'email': 'user@example.com', 'timestamp': '2025-10-28T06:37:08.109547'}
+2025-10-28 12:07:40 [DEBUG] [auth] {'event': 'user_profile_accessed', 'user_id': 14, 'username': 'Devank', 'timestamp': '2025-10-28T06:37:40.769889'}
+2025-10-28 12:07:56 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x749f626b76f0>
+2025-10-28 12:22:55 [WARNING] [security] Unauthorized admin access attempt <starlette.datastructures.State object at 0x77d5cb7e3750>
+2025-10-28 12:26:20 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 12:26:20 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:26:20 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T06:56:20.811697'}
+2025-10-28 12:27:21 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 12:27:21 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:27:21 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T06:57:21.011950'}
+2025-10-28 12:29:41 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:29:41 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T06:59:41.544894'}
+2025-10-28 12:30:41 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:30:41 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T07:00:41.989335'}
+2025-10-28 12:30:49 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:30:49 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T07:00:49.965853'}
+2025-10-28 12:31:09 [INFO] [auth] Getting the info of all the users
+2025-10-28 12:31:09 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 13, 'timestamp': '2025-10-28T07:01:09.958927'}
+2025-10-28 12:31:44 [INFO] [auth] Delete user route accessed
+2025-10-28 12:32:52 [INFO] [auth] Delete user route accessed
+2025-10-28 12:51:20 [DEBUG] [auth] {'event': 'user_profile_accessed', 'user_id': 14, 'username': 'Devank', 'timestamp': '2025-10-28T07:21:20.434603'}
+2025-10-28 12:52:45 [INFO] [auth] Delete user route accessed
+2025-10-28 12:52:45 [INFO] [auth] User successfully deleted
+2025-10-28 15:00:40 [INFO] [auth] Logging route request received
+2025-10-28 15:00:40 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Devank', 'email': 'user@example.com', 'timestamp': '2025-10-28T09:30:40.530100'}
+2025-10-28 15:01:12 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 15:01:12 [INFO] [auth] Getting the info of all the users
+2025-10-28 15:01:12 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 12, 'timestamp': '2025-10-28T09:31:12.163362'}
+2025-10-28 15:01:30 [INFO] [auth] Delete user route accessed
+2025-10-28 15:01:30 [INFO] [auth] User successfully deleted
+2025-10-28 15:01:55 [INFO] [auth] Logout route accessed
+2025-10-28 15:01:55 [INFO] [auth] {'event': 'logout_success', 'user': 'Devank', 'timestamp': '2025-10-28T09:31:55.260689'}
+2025-10-28 17:24:41 [INFO] [auth] User registration has started
+2025-10-28 17:24:41 [INFO] [auth] {'event': 'user_registered', 'username': 'Sai', 'email': 'sai@example.com', 'role': 'user', 'timestamp': '2025-10-28T11:54:41.728697'}
+2025-10-28 17:26:11 [INFO] [auth] Logging route request received
+2025-10-28 17:26:11 [INFO] [auth] {'event': 'login_success', 'user_id': 15, 'username': 'Sai', 'email': 'sai@example.com', 'timestamp': '2025-10-28T11:56:11.752364'}
+2025-10-28 17:26:36 [DEBUG] [auth] {'event': 'user_profile_accessed', 'user_id': 15, 'username': 'Sai', 'timestamp': '2025-10-28T11:56:36.437661'}
+2025-10-28 17:27:48 [INFO] [auth] Logout route accessed
+2025-10-28 17:27:48 [INFO] [auth] {'event': 'logout_success', 'user': 'Sai', 'timestamp': '2025-10-28T11:57:48.879023'}
+2025-10-28 17:28:25 [INFO] [auth] Logging route request received
+2025-10-28 17:28:25 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Devank', 'email': 'user@example.com', 'timestamp': '2025-10-28T11:58:25.701860'}
+2025-10-28 18:11:30 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:11:30 [INFO] [auth] Delete user route accessed
+2025-10-28 18:11:30 [WARNING] [auth] User not found
+2025-10-28 18:12:41 [INFO] [auth] Logging route request received
+2025-10-28 18:12:41 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Devank', 'email': 'user@example.com', 'timestamp': '2025-10-28T12:42:41.754568'}
+2025-10-28 18:13:49 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:13:49 [INFO] [auth] Getting the info of all the users
+2025-10-28 18:13:49 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 12, 'timestamp': '2025-10-28T12:43:49.338849'}
+2025-10-28 18:14:24 [DEBUG] [auth] {'event': 'user_profile_accessed', 'user_id': 14, 'username': 'Devank', 'timestamp': '2025-10-28T12:44:24.008006'}
+2025-10-28 18:14:42 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:14:42 [INFO] [auth] Delete user route accessed
+2025-10-28 18:14:42 [WARNING] [auth] User not found
+2025-10-28 18:16:58 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:16:58 [INFO] [auth] Getting the info of all the users
+2025-10-28 18:16:58 [INFO] [auth] {'event': 'admin_view_users', 'admin': 'Devank', 'total_users': 12, 'timestamp': '2025-10-28T12:46:58.182651'}
+2025-10-28 18:17:15 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:17:15 [INFO] [auth] Delete user route accessed
+2025-10-28 18:17:15 [INFO] [auth] User successfully deleted
+2025-10-28 18:21:05 [INFO] [security] Admin 'Devank' authorized successfully
+2025-10-28 18:21:05 [INFO] [auth] Update user route accessed
+2025-10-28 18:21:05 [INFO] [auth] User successfully updated
+2025-10-28 19:08:36 [INFO] [auth] Logging route request received
+2025-10-28 19:08:36 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-28T13:38:36.483025'}
+2025-10-28 19:09:39 [INFO] [security] Admin 'Dalal' authorized successfully
+2025-10-28 19:09:39 [INFO] [auth] Update user route accessed
+2025-10-28 19:09:39 [WARNING] [auth] {'message': 'The id should be the same', 'timestamp': '2025-10-28T13:39:39.290246'}
+2025-10-28 19:11:22 [INFO] [security] Admin 'Dalal' authorized successfully
+2025-10-28 19:11:22 [INFO] [auth] Update user route accessed
+2025-10-28 19:11:22 [WARNING] [auth] {'message': 'The id and email should be the same', 'timestamp': '2025-10-28T13:41:22.174300'}
+2025-10-28 19:25:28 [INFO] [security] Admin 'Dalal' authorized successfully
+2025-10-28 19:25:28 [INFO] [auth] Update user route accessed
+2025-10-28 19:25:28 [INFO] [auth] User successfully updated
+2025-10-28 19:25:48 [INFO] [auth] Logout route accessed
+2025-10-28 19:25:48 [INFO] [auth] {'event': 'logout_success', 'user': 'Dalal', 'timestamp': '2025-10-28T13:55:48.517631'}
+2025-10-29 14:49:55 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T09:19:55.994954'}
+2025-10-29 14:52:28 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T09:22:28.203629'}
+2025-10-29 14:52:28 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T09:22:28.377301'}
+2025-10-29 15:09:17 [INFO] [user_reviews] Recalculated movie 5 rating -> 10.0
+2025-10-29 15:09:17 [INFO] [user_reviews] Review 1 created by user 14 for movie 5
+2025-10-29 15:26:36 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 15:26:44 [INFO] [user_reviews] Review 2 created by user 14 for movie 1
+2025-10-29 15:29:04 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T09:59:04.530040'}
+2025-10-29 15:29:04 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T09:59:04.708809'}
+2025-10-29 15:33:56 [INFO] [user_reviews] Recalculated movie 5 rating -> 0.0
+2025-10-29 15:33:56 [INFO] [user_reviews] Review 1 deleted by user 14
+2025-10-29 15:35:36 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 15:35:36 [INFO] [user_reviews] Review 2 deleted by user 14
+2025-10-29 15:43:35 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T10:13:35.783827'}
+2025-10-29 15:43:35 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T10:13:35.974725'}
+2025-10-29 15:47:09 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 15:47:09 [INFO] [user_reviews] Review 3 created by user 14 for movie 1
+2025-10-29 15:47:55 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 15:47:55 [INFO] [user_reviews] Review 3 deleted by user 14
+2025-10-29 15:55:56 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 15:55:56 [INFO] [user_reviews] Review 4 created by user 14 for movie 1
+2025-10-29 15:58:00 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 15:58:00 [INFO] [user_reviews] Review 4 deleted by user 14
+2025-10-29 16:00:16 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 16:00:16 [INFO] [user_reviews] Review 5 created by user 14 for movie 1
+2025-10-29 16:00:36 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 16:00:36 [INFO] [user_reviews] Review 5 deleted by user 14
+2025-10-29 16:04:18 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 16:04:18 [INFO] [user_reviews] Review 6 created by user 14 for movie 1
+2025-10-29 16:04:29 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 16:04:29 [INFO] [user_reviews] Review 6 deleted by user 14
+2025-10-29 16:25:55 [INFO] [auth] {'message': 'Logout route accessed', 'timestamp': '2025-10-29T10:55:55.560102'}
+2025-10-29 16:25:55 [INFO] [auth] {'event': 'logout_success', 'user': 'Dalal', 'timestamp': '2025-10-29T10:55:55.590925'}
+2025-10-29 16:32:08 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T11:02:08.177095'}
+2025-10-29 16:32:08 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T11:02:08.353567'}
+2025-10-29 16:33:02 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 16:33:02 [INFO] [user_reviews] Review 7 created by user 14 for movie 1
+2025-10-29 16:37:40 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T11:07:40.709712'}
+2025-10-29 16:37:40 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T11:07:40.884199'}
+2025-10-29 17:01:11 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 17:01:11 [INFO] [user_reviews] Review 7 deleted by user 14
+2025-10-29 17:01:46 [INFO] [user_reviews] Recalculated movie 5 rating -> 10.0
+2025-10-29 17:01:46 [INFO] [user_reviews] Review 8 created by user 14 for movie 5
+2025-10-29 17:05:01 [INFO] [user_reviews] User 14 liked review 8
+2025-10-29 17:19:26 [INFO] [auth] {'message': 'Logout route accessed', 'timestamp': '2025-10-29T11:49:26.701162'}
+2025-10-29 17:21:21 [INFO] [auth] {'message': 'Logout route accessed', 'timestamp': '2025-10-29T11:51:21.895548'}
+2025-10-29 17:25:04 [INFO] [auth] {'message': 'Logout route accessed', 'timestamp': '2025-10-29T11:55:04.454511'}
+2025-10-29 17:25:26 [INFO] [auth] {'message': 'Logout route accessed', 'timestamp': '2025-10-29T11:55:26.719021'}
+2025-10-29 17:25:26 [INFO] [auth] {'event': 'logout_success', 'user': 'Dalal', 'timestamp': '2025-10-29T11:55:26.735680'}
+2025-10-29 17:36:18 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T12:06:18.411763'}
+2025-10-29 17:36:18 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T12:06:18.490553'}
+2025-10-29 17:40:46 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T12:10:46.615858'}
+2025-10-29 17:40:46 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T12:10:46.709192'}
+2025-10-29 17:47:55 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T12:17:55.090992'}
+2025-10-29 17:47:55 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T12:17:55.176072'}
+2025-10-29 17:49:18 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 17:49:53 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 17:49:53 [INFO] [user_reviews] Recalculated movie 5 rating -> 8.0
+2025-10-29 17:49:53 [INFO] [user_reviews] Review 8 updated by user 14
+2025-10-29 17:51:09 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 17:51:09 [INFO] [user_reviews] Recalculated movie 5 rating -> 8.0
+2025-10-29 17:51:09 [INFO] [user_reviews] Review 8 updated by user 14
+2025-10-29 18:25:33 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 18:25:33 [INFO] [user_reviews] Review 9 created by user 14 for movie 1
+2025-10-29 18:43:56 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 18:43:56 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 18:43:56 [INFO] [user_reviews] Review 9 deleted by user 14
+2025-10-29 18:50:22 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T13:20:22.242111'}
+2025-10-29 18:50:22 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T13:20:22.333108'}
+2025-10-29 19:18:56 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 19:18:56 [INFO] [user_reviews] Review 10 created by user 14 for movie 1
+2025-10-29 19:19:46 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:19:46 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 19:19:46 [INFO] [user_reviews] Review 10 deleted by user 14
+2025-10-29 19:20:06 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 19:20:06 [INFO] [user_reviews] Review 11 created by user 14 for movie 1
+2025-10-29 19:39:21 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T14:09:21.891265'}
+2025-10-29 19:39:22 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T14:09:22.030884'}
+2025-10-29 19:40:41 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:40:41 [INFO] [reviews] {'message': 'Update review route accessed', 'timestamp': '2025-10-29T19:40:41.631141'}
+2025-10-29 19:40:41 [INFO] [user_reviews] Recalculated movie 1 rating -> 9.0
+2025-10-29 19:40:41 [INFO] [user_reviews] Review 11 updated by user 14
+2025-10-29 19:41:59 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:41:59 [INFO] [reviews] {'message': 'Update review route accessed', 'timestamp': '2025-10-29T19:41:59.113996'}
+2025-10-29 19:41:59 [INFO] [user_reviews] Recalculated movie 1 rating -> 9.0
+2025-10-29 19:41:59 [INFO] [user_reviews] Review 11 updated by user 14
+2025-10-29 19:42:46 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:42:46 [INFO] [reviews] {'message': 'Update review route accessed', 'timestamp': '2025-10-29T19:42:46.429642'}
+2025-10-29 19:42:46 [INFO] [user_reviews] Recalculated movie 1 rating -> 9.0
+2025-10-29 19:42:46 [INFO] [user_reviews] Review 11 updated by user 14
+2025-10-29 19:43:38 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:43:38 [INFO] [reviews] {'message': 'Update review route accessed', 'timestamp': '2025-10-29T19:43:38.961864'}
+2025-10-29 19:43:38 [INFO] [user_reviews] Recalculated movie 1 rating -> 9.0
+2025-10-29 19:43:38 [INFO] [user_reviews] Review 11 updated by user 14
+2025-10-29 19:45:31 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:45:31 [INFO] [reviews] {'message': 'Update review route accessed', 'timestamp': '2025-10-29T19:45:31.517688'}
+2025-10-29 19:45:31 [INFO] [user_reviews] Recalculated movie 1 rating -> 9.0
+2025-10-29 19:45:31 [INFO] [user_reviews] Review 11 updated by user 14
+2025-10-29 19:46:25 [INFO] [reviews] {'message': 'Get reviews by movie-id route accessed', 'timestamp': '2025-10-29T19:46:25.348983'}
+2025-10-29 19:54:43 [INFO] [auth] {'message': 'Logging route request received', 'timestamp': '2025-10-29T14:24:43.501423'}
+2025-10-29 19:54:43 [INFO] [auth] {'event': 'login_success', 'user_id': 14, 'username': 'Dalal', 'email': 'user@example.com', 'timestamp': '2025-10-29T14:24:43.662331'}
+2025-10-29 19:55:27 [INFO] [decorators] Admin 'Dalal' authorized successfully
+2025-10-29 19:55:27 [INFO] [reviews] {'message': 'Delete review route accessed', 'timestamp': '2025-10-29T19:55:27.338470'}
+2025-10-29 19:55:27 [INFO] [user_reviews] Recalculated movie 1 rating -> 0.0
+2025-10-29 19:55:27 [INFO] [user_reviews] Review 11 deleted by user 14
+2025-10-29 19:56:01 [INFO] [reviews] {'message': 'Create review route accessed', 'timestamp': '2025-10-29T19:56:01.329488'}
+2025-10-29 19:56:01 [INFO] [user_reviews] Recalculated movie 1 rating -> 10.0
+2025-10-29 19:56:01 [INFO] [user_reviews] Review 12 created by user 14 for movie 1
+2025-10-29 19:56:01 [INFO] [reviews] {'message': 'Create review successful', 'timestamp': '2025-10-29T19:56:01.349784'}

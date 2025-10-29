@@ -1,0 +1,5 @@
+myenv/
+app/core/security.py
+__pycache__/
+*.pyc 
+app/core/config.py
